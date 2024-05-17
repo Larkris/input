@@ -1,0 +1,12 @@
+# Rime's symbols
+# encoding: utf-8
+#
+# version: "2024-05-17"
+
+symbols:
+  # 度
+  'Vdu': [°, °C, °F]
+  'Vssd': [°C]
+  # π
+  'Vpd': [π]
+  'Vpi': [π]
